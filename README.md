@@ -2,9 +2,7 @@
 
 Código desenvolvido em **Python** para calcular descontos progressivos em uma loja online de acordo com o valor total da compra.
 
-## 📌 Sobre o projeto
-
-O programa solicita ao usuário o valor total da compra e verifica qual desconto deve ser aplicado:
+Solicita ao usuário o valor total da compra e verifica qual desconto deve ser aplicado:
 
 | Valor da compra                      | Desconto |
 | ------------------------------------ | -------: |
